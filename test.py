@@ -1,0 +1,10 @@
+x="python"
+print(x[0:4])
+print(x[-5:-3])
+print(x[-5:-2])
+print(x[5:0:-2])
+print(x.islower())
+print(x.isupper())
+numb={1:3,3:5}
+numb.pop(3)
+print(numb)
